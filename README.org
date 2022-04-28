@@ -1,8 +1,8 @@
-#+TITLE: My Emacs config Org Readme
+#+TITLE: My Emacs configuration
 # dotEamcs
 
-* 我的emacs配置
+* [[doom.org][我的emacs配置]]
 ** references
 
-| url                                                                                                                 |
-| [[https://zzamboni.org/post/my-doom-emacs-configuration-with-commentary/][My Doom Emacs configuration, with commentary]]  |
+| url                                          |
+| [[https://zzamboni.org/post/my-doom-emacs-configuration-with-commentary/][My Doom Emacs configuration, with commentary]] |
